@@ -1,0 +1,7 @@
+C:\DOT NET\Projects\05-12-2023\ConAppProjec4\ConAppProjec4\bin\Debug\ConAppProjec4.exe.config
+C:\DOT NET\Projects\05-12-2023\ConAppProjec4\ConAppProjec4\bin\Debug\ConAppProjec4.exe
+C:\DOT NET\Projects\05-12-2023\ConAppProjec4\ConAppProjec4\bin\Debug\ConAppProjec4.pdb
+C:\DOT NET\Projects\05-12-2023\ConAppProjec4\ConAppProjec4\obj\Debug\ConAppProjec4.csproj.AssemblyReference.cache
+C:\DOT NET\Projects\05-12-2023\ConAppProjec4\ConAppProjec4\obj\Debug\ConAppProjec4.csproj.CoreCompileInputs.cache
+C:\DOT NET\Projects\05-12-2023\ConAppProjec4\ConAppProjec4\obj\Debug\ConAppProjec4.exe
+C:\DOT NET\Projects\05-12-2023\ConAppProjec4\ConAppProjec4\obj\Debug\ConAppProjec4.pdb
